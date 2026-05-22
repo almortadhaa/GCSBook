@@ -1,4 +1,6 @@
-python-telegram-bot==20.7
-gspread==5.12
-google-auth==2.23.0
-flask==2.3.3
+flask
+python-telegram-bot
+gspread
+oauth2client
+google-auth
+gunicorn
