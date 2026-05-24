@@ -1,0 +1,6 @@
+flask
+python-telegram-bot>=20.0
+gspread
+google-auth
+gunicorn
+requests
